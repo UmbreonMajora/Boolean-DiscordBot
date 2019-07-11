@@ -1,0 +1,9 @@
+{
+    "client": {
+        "login": "BOT_TOKEN",
+        "prefix": "!"
+    },
+    "mute": {
+        "role": "muted"
+    }
+}

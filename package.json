@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "b1.0.0",
+  "description": "Discord Bot.",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "giphy-api": "^2.0.1",
+    "giphy-js-sdk-core": "^1.0.6",
+    "ms": "^2.1.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.18.11",
+    "rcon": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Umbreon",
+  "license": "ISC"
+}
